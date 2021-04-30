@@ -1,0 +1,21 @@
+{
+  "name": "api-imc",
+  "version": "1.0.0",
+  "description": "Uma API criado por mim para consultar o indice de IMC",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "keywords": [
+    "API"
+  ],
+  "author": "Filipe Borba",
+  "license": "ISC"
+}
